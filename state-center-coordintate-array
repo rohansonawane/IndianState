@@ -1,0 +1,46 @@
+<?php
+
+//Indian States Center Coordinate Array
+
+$states = [
+
+'andhra-pradesh' => [79.7400,15.9129],
+'arunachal-pradesh' => [94.7278,28.2180],
+'assam' => [92.9376, 26.2006],
+'bihar' => [ 85.2722, 25.9644],
+'chhattisgarh' => [81.8661, 21.2787],
+'goa' => [74.1240, 15.2993],
+'gujarat' => [71.5724,22.6708],
+'haryana' => [76.0856,29.0588],
+'himachal-pradesh' => [77.5619,32.1024],
+'jammu-and-kashmir' => [75.3412,33.2778],
+'jharkhand' => [85.2722,23.6913],
+'karnataka' => [75.7139,15.3173],
+'kerala' => [76.6413, 10.1632],
+'madhya-pradesh' => [78.6569,22.9734],
+'maharashtra' => [75.7139,19.7515],
+'manipur' => [93.9063,24.6637],
+'meghalaya' => [91.3662, 25.4670],
+'mizoram' => [92.9376, 23.1645],
+'nagaland' => [94.5624, 26.1584],
+'odisha' => [84.2700, 20.2376],
+'punjab' => [75.3412, 31.1471],
+'rajasthan' => [74.2179, 27.0238],
+'sikkim' => [88.3239, 27.3516],
+'tamiladu' => [78.6569, 11.1271],
+'telangana' => [79.0193, 18.1124],
+'tripura' => [91.6761, 23.5639],
+'uttar-pradesh' => [80.0982, 27.5706],
+'uttarakhand' => [79.0193, 30.0668],
+'west-bengal' => [87.8550, 22.9868],
+'andaman-andicobar-islands' => [92.5000, 10.7449],
+'chandigarh' => [76.7794, 30.7333],
+'dadra-andagar-haveli' => [73.0169, 20.1809],
+'daman-and-diu' => [72.8328, 20.3974],
+'lakshadweep' => [73.00, 10.00],
+'national-capital-territory-of-delhi' => [77.1025, 28.7041],
+'puducherry' => [79.8083, 11.9416]
+
+];
+
+?>
